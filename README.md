@@ -66,7 +66,7 @@ The following sections demonstrate my progress across the five key focus areas:
 **PROFESSIONAL NETWORKING**
 ## _Evidence_
 
--Woolworthd Women in tech event
+-Woolworths Women in tech event
 ![Woolworths Women in tech event](./techEvent.jpeg)
 
 ## Reflection: STAR Technique
