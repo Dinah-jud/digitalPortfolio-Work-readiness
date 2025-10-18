@@ -37,7 +37,7 @@ The following sections demonstrate my progress across the five key focus areas:
 
 ![Interview Preparation](./InterviewPrep.jpeg)
 
- ### STAR Reflection – Kids Innovate Africa
+ ### Reflection: STAR Reflection 
 **Situation (S):** I had an interview with Kids Innovate Africa for an internship. 
 
 **Task (T):** I needed to prepare effectively to make a strong impression.  
@@ -49,6 +49,8 @@ The following sections demonstrate my progress across the five key focus areas:
 **MOCK INTERVIEW**
 
 ## _Evidence_
+
+-Mock Video
 [Watch Mock Interview Video](./MockVid.mp4)
 
  ## Reflection: STAR Technique
@@ -63,6 +65,18 @@ The following sections demonstrate my progress across the five key focus areas:
 
 **PROFESSIONAL NETWORKING**
 ## _Evidence_
+
+-Woolworthd Women in tech event
+![Woolworths Women in tech event](./techEvent.jpeg)
+
+## Reflection: STAR Technique
+**Situation (S):** I attended the Woolworth Women in Tech event to assist one of my lecturers and learn more about professional networking.  
+
+**Task (T):** I aimed to engage with industry professionals, make meaningful connections, and observe networking in a professional setting.  
+
+**Action (A):** I introduced myself to attendees, asked questions about their roles and experiences, exchanged contact information, and assisted my lecturer with event tasks.  
+
+**Result (R):** Through networking at this event, I connected with a representative from Kids Innovate Africa, which directly led to being invited for an internship interview. This experience showed me the power of networking and made me more confident in approaching professionals.
 
 
 
