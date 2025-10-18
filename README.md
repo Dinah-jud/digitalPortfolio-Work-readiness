@@ -79,4 +79,19 @@ The following sections demonstrate my progress across the five key focus areas:
 **Result (R):** Through networking at this event, I connected with a representative from Kids Innovate Africa, which directly led to being invited for an internship interview. This experience showed me the power of networking and made me more confident in approaching professionals.
 
 
+**WORKPLACE ETIQUETTE**
+## Evidence
+
+-Training in project presentation module
+![Workplace etiquette](./workplace.png)
+
+
+## Reflection: STAR Technique
+**Situation (S):** As part of the Work Readiness Training, I completed a Workplace Etiquette module and assessment.  
+
+**Task (T):** I needed to understand professional behavior and demonstrate my knowledge by completing the test.  
+
+**Action (A):** I studied the module carefully, learned about professional communication, teamwork, punctuality, and workplace norms, and applied these lessons in the test.  
+
+**Result (R):** I scored 100% on the Workplace Etiquette test, showing that I fully understood professional expectations and am ready to apply them in real workplace situations.
 
