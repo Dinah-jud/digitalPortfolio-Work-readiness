@@ -33,4 +33,8 @@ The following sections demonstrate my progress across the five key focus areas:
 **INTERVIEW SKILLS**
 
 ## _Evidence_
+-Interview Preparation
 
+![Interview Preparation](./InterviewPrep.jpeg)
+
+[Watch Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-Dinah-jud/blob/main/untitled-video-made-with-clipchamp_OIRd4xVk.mp4)
